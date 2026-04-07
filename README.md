@@ -228,11 +228,19 @@ Log format example:
 
 ---
 
-**Screenshots**
-1.ADLS folder structure
-Screenshots/ADLS_folder_structure.png
+---
 
-2.Unity Catalog
+## Project Screenshots
 
-3.Merge History
+### 1. ADLS Folder Structure
+![ADLS Folder Structure](https://github.com/user-attachments/assets/edefd3c3-22dc-434e-9229-c972f8ab7b60)
+
+### 2. Unity Catalog
+![Unity Catalog](https://github.com/user-attachments/assets/2ede4199-e4eb-42d6-9ac4-88e903628428)
+
+### 3. Merge History
+![Merge History](https://github.com/user-attachments/assets/0a355eac-4e51-407a-b640-b6a0c2a08759)
+
+### 4. Data Factory Pipeline
+![Data Factory Pipeline](https://github.com/user-attachments/assets/79cf1573-dc4e-4684-aa2e-02ee7dd7d9a9)
 

@@ -124,6 +124,35 @@ Retail_Inventory_system/
 | More than 100 units | Overstock | Stop ordering, clear existing stock |
 
 ---
+---
+
+## Email Alerts — Logic App Integration
+
+When low stock products are detected in the Silver pipeline, an **automated email alert** is triggered using **Azure Logic App** with SMTP connector.
+
+### How it works
+### What the email contains
+- Product name
+- Current stock level
+- Alert level (Critical / High / Medium)
+- Reorder quantity suggested
+
+### Trigger condition
+- Any product with `stock < 10` triggers the email
+- Alert level decides urgency shown in email subject:
+  - `[CRITICAL]` → stock = 0
+  - `[HIGH]` → stock 1 to 3
+  - `[MEDIUM]` → stock 4 to 9
+
+### Tools used
+| Tool | Purpose |
+|---|---|
+| Azure Logic App | Workflow automation |
+| Web connector | Fetches low stock data |
+| SMTP connector | Sends email notification |
+| Recipient | kumbharsejal24@gmail.com |
+
+| Azure Logic App | Sends automated email alerts for low stock products |
 
 ## Incremental Load — How It Works
 

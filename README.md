@@ -228,8 +228,11 @@ Log format example:
 
 ---
 
-## Author
+**Screenshots**
+1.ADLS folder structure
+Screenshots/ADLS_folder_structure.png
 
-**Sejal Kumbhar**
+2.Unity Catalog
 
-Data Engineering Project — Azure Databricks | PySpark | Delta Lake | Medallion Architecture
+3.Merge History
+

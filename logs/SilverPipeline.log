@@ -1,0 +1,100 @@
+2026-04-07 05:05:43,412 | SilverPipeline | INFO | ===== Silver Pipeline Started =====
+2026-04-07 05:05:43,412 | SilverPipeline | INFO | Started  : read
+2026-04-07 05:05:48,342 | SilverPipeline | INFO | Completed: read in 4.93s
+2026-04-07 05:05:48,343 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:05:48,867 | SilverPipeline | INFO | Completed: clean in 0.52s
+2026-04-07 05:05:48,868 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:05:49,003 | SilverPipeline | INFO | Completed: split in 0.13s
+2026-04-07 05:05:49,004 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:06:05,118 | SilverPipeline | INFO | Completed: overwrite in 16.11s
+2026-04-07 05:06:06,102 | SilverPipeline | INFO | Products written: 63
+2026-04-07 05:06:06,103 | SilverPipeline | INFO | Started  : filter_new_files
+2026-04-07 05:06:06,779 | SilverPipeline | INFO | Completed: filter_new_files in 0.67s
+2026-04-07 05:06:06,780 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:06:06,886 | SilverPipeline | INFO | Completed: clean in 0.11s
+2026-04-07 05:06:06,887 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:06:06,970 | SilverPipeline | INFO | Completed: split in 0.08s
+2026-04-07 05:06:06,983 | SilverPipeline | INFO | Started  : merge_incremental
+2026-04-07 05:06:12,491 | SilverPipeline | INFO | Completed: merge_incremental in 5.51s
+2026-04-07 05:06:12,754 | SilverPipeline | INFO | Started  : detect_stock
+2026-04-07 05:06:12,879 | SilverPipeline | INFO | Completed: detect_stock in 0.12s
+2026-04-07 05:06:12,880 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:06:15,897 | SilverPipeline | INFO | Completed: overwrite in 3.02s
+2026-04-07 05:06:15,897 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:06:17,949 | SilverPipeline | INFO | Completed: overwrite in 2.05s
+2026-04-07 05:06:17,950 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:06:18,527 | SilverPipeline | INFO | Completed: create_table in 0.58s
+2026-04-07 05:06:18,528 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:06:18,864 | SilverPipeline | INFO | Completed: create_table in 0.33s
+2026-04-07 05:06:18,865 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:06:19,221 | SilverPipeline | INFO | Completed: create_table in 0.36s
+2026-04-07 05:06:19,222 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:06:19,577 | SilverPipeline | INFO | Completed: create_table in 0.35s
+2026-04-07 05:06:20,251 | SilverPipeline | INFO | ===== Silver Pipeline Completed =====
+2026-04-07 05:10:46,414 | SilverPipeline | INFO | ===== Silver Pipeline Started =====
+2026-04-07 05:10:46,414 | SilverPipeline | INFO | Started  : read
+2026-04-07 05:10:46,594 | SilverPipeline | INFO | Completed: read in 0.18s
+2026-04-07 05:10:46,595 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:10:46,687 | SilverPipeline | INFO | Completed: clean in 0.09s
+2026-04-07 05:10:46,688 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:10:46,766 | SilverPipeline | INFO | Completed: split in 0.08s
+2026-04-07 05:10:46,768 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:10:50,111 | SilverPipeline | INFO | Completed: overwrite in 3.34s
+2026-04-07 05:10:50,688 | SilverPipeline | INFO | Products written: 30
+2026-04-07 05:10:50,689 | SilverPipeline | INFO | Started  : filter_new_files
+2026-04-07 05:10:50,746 | SilverPipeline | INFO | First load - no filtering needed
+2026-04-07 05:10:50,747 | SilverPipeline | INFO | Completed: filter_new_files in 0.06s
+2026-04-07 05:10:50,747 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:10:50,824 | SilverPipeline | INFO | Completed: clean in 0.08s
+2026-04-07 05:10:50,825 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:10:50,890 | SilverPipeline | INFO | Completed: split in 0.06s
+2026-04-07 05:10:50,903 | SilverPipeline | INFO | Started  : merge_incremental
+2026-04-07 05:10:50,940 | SilverPipeline | INFO | First load - writing directly
+2026-04-07 05:10:52,646 | SilverPipeline | INFO | Completed: merge_incremental in 1.74s
+2026-04-07 05:10:52,713 | SilverPipeline | INFO | Started  : detect_stock
+2026-04-07 05:10:52,825 | SilverPipeline | INFO | Completed: detect_stock in 0.11s
+2026-04-07 05:10:52,826 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:10:54,577 | SilverPipeline | INFO | Completed: overwrite in 1.75s
+2026-04-07 05:10:54,578 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:10:55,761 | SilverPipeline | INFO | Completed: overwrite in 1.18s
+2026-04-07 05:10:55,762 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:10:57,050 | SilverPipeline | INFO | Completed: create_table in 1.29s
+2026-04-07 05:10:57,051 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:10:57,986 | SilverPipeline | INFO | Completed: create_table in 0.93s
+2026-04-07 05:10:57,987 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:10:58,889 | SilverPipeline | INFO | Completed: create_table in 0.9s
+2026-04-07 05:10:58,890 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:10:59,757 | SilverPipeline | INFO | Completed: create_table in 0.87s
+2026-04-07 05:11:00,098 | SilverPipeline | INFO | ===== Silver Pipeline Completed =====
+2026-04-07 05:13:26,521 | SilverPipeline | INFO | ===== Silver Pipeline Started =====
+2026-04-07 05:13:26,522 | SilverPipeline | INFO | Started  : read
+2026-04-07 05:13:26,643 | SilverPipeline | INFO | Completed: read in 0.12s
+2026-04-07 05:13:26,644 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:13:26,717 | SilverPipeline | INFO | Completed: clean in 0.07s
+2026-04-07 05:13:26,718 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:13:26,778 | SilverPipeline | INFO | Completed: split in 0.06s
+2026-04-07 05:13:26,778 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:13:28,535 | SilverPipeline | INFO | Completed: overwrite in 1.76s
+2026-04-07 05:13:29,067 | SilverPipeline | INFO | Products written: 60
+2026-04-07 05:13:29,069 | SilverPipeline | INFO | Started  : filter_new_files
+2026-04-07 05:13:29,560 | SilverPipeline | INFO | Completed: filter_new_files in 0.49s
+2026-04-07 05:13:29,561 | SilverPipeline | INFO | Started  : clean
+2026-04-07 05:13:29,623 | SilverPipeline | INFO | Completed: clean in 0.06s
+2026-04-07 05:13:29,624 | SilverPipeline | INFO | Started  : split
+2026-04-07 05:13:29,699 | SilverPipeline | INFO | Completed: split in 0.07s
+2026-04-07 05:13:29,712 | SilverPipeline | INFO | Started  : merge_incremental
+2026-04-07 05:13:32,107 | SilverPipeline | INFO | Completed: merge_incremental in 2.39s
+2026-04-07 05:13:32,174 | SilverPipeline | INFO | Started  : detect_stock
+2026-04-07 05:13:32,252 | SilverPipeline | INFO | Completed: detect_stock in 0.08s
+2026-04-07 05:13:32,253 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:13:33,854 | SilverPipeline | INFO | Completed: overwrite in 1.6s
+2026-04-07 05:13:33,854 | SilverPipeline | INFO | Started  : overwrite
+2026-04-07 05:13:35,417 | SilverPipeline | INFO | Completed: overwrite in 1.56s
+2026-04-07 05:13:35,418 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:13:35,762 | SilverPipeline | INFO | Completed: create_table in 0.34s
+2026-04-07 05:13:35,763 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:13:36,085 | SilverPipeline | INFO | Completed: create_table in 0.32s
+2026-04-07 05:13:36,085 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:13:36,370 | SilverPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:13:36,370 | SilverPipeline | INFO | Started  : create_table
+2026-04-07 05:13:36,674 | SilverPipeline | INFO | Completed: create_table in 0.3s

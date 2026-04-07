@@ -1,0 +1,33 @@
+2026-04-07 05:10:13,864 | BronzeLayer | INFO | ===== Bronze Pipeline Started =====
+2026-04-07 05:10:13,864 | BronzeLayer | INFO | Started  : read_json
+2026-04-07 05:10:14,713 | BronzeLayer | INFO | Completed: read_json in 0.85s
+2026-04-07 05:10:14,714 | BronzeLayer | INFO | Started  : flatten_json
+2026-04-07 05:10:14,780 | BronzeLayer | INFO | Completed: flatten_json in 0.06s
+2026-04-07 05:10:14,780 | BronzeLayer | INFO | Started  : add_metadata
+2026-04-07 05:10:14,900 | BronzeLayer | INFO | Completed: add_metadata in 0.12s
+2026-04-07 05:10:14,901 | BronzeLayer | INFO | Started  : filter_new_files
+2026-04-07 05:10:15,250 | BronzeLayer | INFO | First load - no filtering needed
+2026-04-07 05:10:15,251 | BronzeLayer | INFO | Completed: filter_new_files in 0.35s
+2026-04-07 05:10:15,251 | BronzeLayer | INFO | Started  : write_delta
+2026-04-07 05:10:17,823 | BronzeLayer | INFO | Write successful
+2026-04-07 05:10:17,824 | BronzeLayer | INFO | Completed: write_delta in 2.57s
+2026-04-07 05:10:17,825 | BronzeLayer | INFO | Started  : create_table
+2026-04-07 05:10:19,021 | BronzeLayer | INFO | Table ready
+2026-04-07 05:10:19,022 | BronzeLayer | INFO | Completed: create_table in 1.2s
+2026-04-07 05:10:19,369 | BronzeLayer | INFO | ===== Bronze Pipeline Completed =====
+2026-04-07 05:12:46,368 | BronzeLayer | INFO | ===== Bronze Pipeline Started =====
+2026-04-07 05:12:46,368 | BronzeLayer | INFO | Started  : read_json
+2026-04-07 05:12:46,993 | BronzeLayer | INFO | Completed: read_json in 0.62s
+2026-04-07 05:12:46,994 | BronzeLayer | INFO | Started  : flatten_json
+2026-04-07 05:12:47,037 | BronzeLayer | INFO | Completed: flatten_json in 0.04s
+2026-04-07 05:12:47,038 | BronzeLayer | INFO | Started  : add_metadata
+2026-04-07 05:12:47,105 | BronzeLayer | INFO | Completed: add_metadata in 0.07s
+2026-04-07 05:12:47,106 | BronzeLayer | INFO | Started  : filter_new_files
+2026-04-07 05:12:47,510 | BronzeLayer | INFO | Filtered to new files only
+2026-04-07 05:12:47,511 | BronzeLayer | INFO | Completed: filter_new_files in 0.4s
+2026-04-07 05:12:47,511 | BronzeLayer | INFO | Started  : write_delta
+2026-04-07 05:12:50,366 | BronzeLayer | INFO | Write successful
+2026-04-07 05:12:50,368 | BronzeLayer | INFO | Completed: write_delta in 2.86s
+2026-04-07 05:12:50,369 | BronzeLayer | INFO | Started  : create_table
+2026-04-07 05:12:50,740 | BronzeLayer | INFO | Table ready
+2026-04-07 05:12:50,741 | BronzeLayer | INFO | Completed: create_table in 0.37s

@@ -1,0 +1,247 @@
+2026-04-07 05:15:29,944 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:15:29,945 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:15:30,298 | GoldPipeline | INFO | Completed: load_silver in 0.35s
+2026-04-07 05:15:30,299 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:15:30,342 | GoldPipeline | INFO | Completed: inventory_summary in 0.04s
+2026-04-07 05:15:30,342 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:15:30,381 | GoldPipeline | INFO | Completed: category_analysis in 0.04s
+2026-04-07 05:15:30,382 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:15:31,769 | GoldPipeline | INFO | Completed: stock_alerts in 1.39s
+2026-04-07 05:15:31,770 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:15:31,833 | GoldPipeline | INFO | Completed: low_stock_detail in 0.06s
+2026-04-07 05:15:31,833 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:15:31,913 | GoldPipeline | INFO | Completed: category_stock_summary in 0.08s
+2026-04-07 05:15:31,914 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:15:32,905 | GoldPipeline | INFO | Completed: stock_alerts in 0.99s
+2026-04-07 05:15:32,905 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:15:34,989 | GoldPipeline | INFO | Completed: overwrite in 2.08s
+2026-04-07 05:15:34,991 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:15:37,124 | GoldPipeline | INFO | Completed: overwrite in 2.13s
+2026-04-07 05:15:37,124 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:15:39,959 | GoldPipeline | INFO | Completed: overwrite in 2.83s
+2026-04-07 05:15:39,960 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:15:42,392 | GoldPipeline | INFO | Completed: overwrite in 2.43s
+2026-04-07 05:15:42,393 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:15:44,606 | GoldPipeline | INFO | Completed: overwrite in 2.21s
+2026-04-07 05:15:44,607 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====
+2026-04-07 05:16:24,549 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:16:24,550 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:16:24,869 | GoldPipeline | INFO | Completed: load_silver in 0.32s
+2026-04-07 05:16:24,870 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:16:24,904 | GoldPipeline | INFO | Completed: inventory_summary in 0.03s
+2026-04-07 05:16:24,905 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:16:24,940 | GoldPipeline | INFO | Completed: category_analysis in 0.04s
+2026-04-07 05:16:24,941 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:16:25,995 | GoldPipeline | INFO | Completed: stock_alerts in 1.05s
+2026-04-07 05:16:25,996 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:16:26,042 | GoldPipeline | INFO | Completed: low_stock_detail in 0.05s
+2026-04-07 05:16:26,043 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:16:26,103 | GoldPipeline | INFO | Completed: category_stock_summary in 0.06s
+2026-04-07 05:16:26,104 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:16:26,804 | GoldPipeline | INFO | Completed: stock_alerts in 0.7s
+2026-04-07 05:16:26,804 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:16:28,692 | GoldPipeline | INFO | Completed: overwrite in 1.89s
+2026-04-07 05:16:28,693 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:16:30,404 | GoldPipeline | INFO | Completed: overwrite in 1.71s
+2026-04-07 05:16:30,405 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:16:31,744 | GoldPipeline | INFO | Completed: overwrite in 1.34s
+2026-04-07 05:16:31,745 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:16:33,958 | GoldPipeline | INFO | Completed: overwrite in 2.21s
+2026-04-07 05:16:33,958 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:16:36,144 | GoldPipeline | INFO | Completed: overwrite in 2.18s
+2026-04-07 05:16:36,145 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:16:37,025 | GoldPipeline | INFO | Completed: create_table in 0.88s
+2026-04-07 05:16:37,025 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:16:37,921 | GoldPipeline | INFO | Completed: create_table in 0.9s
+2026-04-07 05:16:37,922 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:16:38,745 | GoldPipeline | INFO | Completed: create_table in 0.82s
+2026-04-07 05:16:38,746 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:16:39,625 | GoldPipeline | INFO | Completed: create_table in 0.88s
+2026-04-07 05:16:39,625 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:16:40,551 | GoldPipeline | INFO | Completed: create_table in 0.92s
+2026-04-07 05:16:41,190 | GoldPipeline | ERROR | Gold Pipeline failed: [SCHEMA_NOT_FOUND] The schema `retail_workspace.gold` cannot be found. Verify the spelling and correctness of the schema and catalog.
+If you did not qualify the name with a catalog, verify the current_schema() output, or qualify the name with the correct catalog.
+To tolerate the error on drop use DROP SCHEMA IF EXISTS. SQLSTATE: 42704
+2026-04-07 05:18:04,649 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:18:04,649 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:18:04,972 | GoldPipeline | INFO | Completed: load_silver in 0.32s
+2026-04-07 05:18:04,973 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:18:05,007 | GoldPipeline | INFO | Completed: inventory_summary in 0.03s
+2026-04-07 05:18:05,007 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:18:05,041 | GoldPipeline | INFO | Completed: category_analysis in 0.03s
+2026-04-07 05:18:05,042 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:18:06,018 | GoldPipeline | INFO | Completed: stock_alerts in 0.98s
+2026-04-07 05:18:06,019 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:18:06,054 | GoldPipeline | INFO | Completed: low_stock_detail in 0.03s
+2026-04-07 05:18:06,055 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:18:06,105 | GoldPipeline | INFO | Completed: category_stock_summary in 0.05s
+2026-04-07 05:18:06,106 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:18:06,725 | GoldPipeline | INFO | Completed: stock_alerts in 0.62s
+2026-04-07 05:18:06,726 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:18:08,400 | GoldPipeline | INFO | Completed: overwrite in 1.67s
+2026-04-07 05:18:08,401 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:18:10,356 | GoldPipeline | INFO | Completed: overwrite in 1.95s
+2026-04-07 05:18:10,356 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:18:12,084 | GoldPipeline | INFO | Completed: overwrite in 1.73s
+2026-04-07 05:18:12,084 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:18:14,018 | GoldPipeline | INFO | Completed: overwrite in 1.93s
+2026-04-07 05:18:14,019 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:18:15,790 | GoldPipeline | INFO | Completed: overwrite in 1.77s
+2026-04-07 05:18:15,791 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:18:16,098 | GoldPipeline | INFO | Completed: create_table in 0.31s
+2026-04-07 05:18:16,099 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:18:16,384 | GoldPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:18:16,385 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:18:16,687 | GoldPipeline | INFO | Completed: create_table in 0.3s
+2026-04-07 05:18:16,688 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:18:16,952 | GoldPipeline | INFO | Completed: create_table in 0.26s
+2026-04-07 05:18:16,953 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:18:17,251 | GoldPipeline | INFO | Completed: create_table in 0.3s
+2026-04-07 05:18:17,253 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====
+2026-04-07 05:29:32,286 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:29:32,307 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:29:32,711 | GoldPipeline | INFO | Completed: load_silver in 0.4s
+2026-04-07 05:29:32,712 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:29:32,770 | GoldPipeline | INFO | Completed: inventory_summary in 0.06s
+2026-04-07 05:29:32,771 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:29:32,810 | GoldPipeline | INFO | Completed: category_analysis in 0.04s
+2026-04-07 05:29:32,811 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:29:34,010 | GoldPipeline | INFO | Completed: stock_alerts in 1.2s
+2026-04-07 05:29:34,011 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:29:36,083 | GoldPipeline | INFO | Completed: low_stock_detail in 2.07s
+2026-04-07 05:29:36,083 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:29:36,127 | GoldPipeline | INFO | Completed: category_stock_summary in 0.04s
+2026-04-07 05:29:36,127 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:29:37,050 | GoldPipeline | INFO | Completed: stock_alerts in 0.92s
+2026-04-07 05:29:37,051 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:29:38,946 | GoldPipeline | INFO | Completed: overwrite in 1.9s
+2026-04-07 05:29:38,947 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:29:40,377 | GoldPipeline | INFO | Completed: overwrite in 1.43s
+2026-04-07 05:29:40,378 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:29:41,702 | GoldPipeline | INFO | Completed: overwrite in 1.32s
+2026-04-07 05:29:41,704 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:29:43,381 | GoldPipeline | INFO | Completed: overwrite in 1.68s
+2026-04-07 05:29:43,382 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:29:44,998 | GoldPipeline | INFO | Completed: overwrite in 1.62s
+2026-04-07 05:29:44,999 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:29:45,291 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:29:45,292 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:29:45,582 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:29:45,583 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:29:45,870 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:29:45,875 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:29:46,165 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:29:46,165 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:29:46,454 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:29:46,455 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====
+2026-04-07 05:42:25,418 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:42:25,419 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:42:25,803 | GoldPipeline | INFO | Completed: load_silver in 0.38s
+2026-04-07 05:42:25,803 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:42:25,832 | GoldPipeline | INFO | Completed: inventory_summary in 0.03s
+2026-04-07 05:42:25,832 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:42:25,857 | GoldPipeline | INFO | Completed: category_analysis in 0.02s
+2026-04-07 05:42:25,858 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:42:26,766 | GoldPipeline | INFO | Completed: stock_alerts in 0.91s
+2026-04-07 05:42:26,767 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:42:26,768 | GoldPipeline | INFO | Creating low stock detail report
+2026-04-07 05:42:26,807 | GoldPipeline | INFO | Completed: low_stock_detail in 0.04s
+2026-04-07 05:42:26,808 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:42:26,852 | GoldPipeline | INFO | Completed: category_stock_summary in 0.04s
+2026-04-07 05:42:26,853 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:42:27,408 | GoldPipeline | INFO | Completed: stock_alerts in 0.55s
+2026-04-07 05:42:27,408 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:42:29,165 | GoldPipeline | INFO | Completed: overwrite in 1.76s
+2026-04-07 05:42:29,165 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:42:30,729 | GoldPipeline | INFO | Completed: overwrite in 1.56s
+2026-04-07 05:42:30,730 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:42:32,169 | GoldPipeline | INFO | Completed: overwrite in 1.44s
+2026-04-07 05:42:32,170 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:42:33,806 | GoldPipeline | INFO | Completed: overwrite in 1.63s
+2026-04-07 05:42:33,806 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:42:35,751 | GoldPipeline | INFO | Completed: overwrite in 1.94s
+2026-04-07 05:42:35,751 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:42:36,049 | GoldPipeline | INFO | Completed: create_table in 0.3s
+2026-04-07 05:42:36,050 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:42:36,376 | GoldPipeline | INFO | Completed: create_table in 0.33s
+2026-04-07 05:42:36,377 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:42:36,660 | GoldPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:42:36,660 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:42:36,928 | GoldPipeline | INFO | Completed: create_table in 0.27s
+2026-04-07 05:42:36,929 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:42:37,210 | GoldPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:42:37,211 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====
+2026-04-07 05:48:09,177 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:48:09,178 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:48:09,511 | GoldPipeline | INFO | Completed: load_silver in 0.33s
+2026-04-07 05:48:09,512 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:48:09,543 | GoldPipeline | INFO | Completed: inventory_summary in 0.03s
+2026-04-07 05:48:09,544 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:48:09,570 | GoldPipeline | INFO | Completed: category_analysis in 0.03s
+2026-04-07 05:48:09,571 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:48:10,635 | GoldPipeline | INFO | Completed: stock_alerts in 1.06s
+2026-04-07 05:48:10,636 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:48:10,636 | GoldPipeline | INFO | Creating low stock detail report
+2026-04-07 05:48:10,688 | GoldPipeline | INFO | Completed: low_stock_detail in 0.05s
+2026-04-07 05:48:10,689 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:48:10,737 | GoldPipeline | INFO | Completed: category_stock_summary in 0.05s
+2026-04-07 05:48:10,738 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:48:11,497 | GoldPipeline | INFO | Completed: stock_alerts in 0.76s
+2026-04-07 05:48:11,497 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:48:13,030 | GoldPipeline | INFO | Completed: overwrite in 1.53s
+2026-04-07 05:48:13,031 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:48:14,472 | GoldPipeline | INFO | Completed: overwrite in 1.44s
+2026-04-07 05:48:14,473 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:48:15,969 | GoldPipeline | INFO | Completed: overwrite in 1.5s
+2026-04-07 05:48:15,970 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:48:18,677 | GoldPipeline | INFO | Completed: overwrite in 2.71s
+2026-04-07 05:48:18,678 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:48:20,708 | GoldPipeline | INFO | Completed: overwrite in 2.03s
+2026-04-07 05:48:20,709 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:48:20,998 | GoldPipeline | INFO | Completed: create_table in 0.29s
+2026-04-07 05:48:20,999 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:48:21,276 | GoldPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:48:21,277 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:48:21,574 | GoldPipeline | INFO | Completed: create_table in 0.3s
+2026-04-07 05:48:21,575 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:48:21,849 | GoldPipeline | INFO | Completed: create_table in 0.27s
+2026-04-07 05:48:21,850 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:48:22,130 | GoldPipeline | INFO | Completed: create_table in 0.28s
+2026-04-07 05:48:22,130 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====
+2026-04-07 05:51:17,325 | GoldPipeline | INFO | ===== Gold Pipeline Started =====
+2026-04-07 05:51:17,326 | GoldPipeline | INFO | Started  : load_silver
+2026-04-07 05:51:17,636 | GoldPipeline | INFO | Completed: load_silver in 0.31s
+2026-04-07 05:51:17,637 | GoldPipeline | INFO | Started  : inventory_summary
+2026-04-07 05:51:17,670 | GoldPipeline | INFO | Completed: inventory_summary in 0.03s
+2026-04-07 05:51:17,671 | GoldPipeline | INFO | Started  : category_analysis
+2026-04-07 05:51:17,704 | GoldPipeline | INFO | Completed: category_analysis in 0.03s
+2026-04-07 05:51:17,704 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:51:18,571 | GoldPipeline | INFO | Completed: stock_alerts in 0.87s
+2026-04-07 05:51:18,571 | GoldPipeline | INFO | Started  : low_stock_detail
+2026-04-07 05:51:18,572 | GoldPipeline | INFO | Creating low stock detail report
+2026-04-07 05:51:18,621 | GoldPipeline | INFO | Completed: low_stock_detail in 0.05s
+2026-04-07 05:51:18,622 | GoldPipeline | INFO | Started  : category_stock_summary
+2026-04-07 05:51:18,681 | GoldPipeline | INFO | Completed: category_stock_summary in 0.06s
+2026-04-07 05:51:18,682 | GoldPipeline | INFO | Started  : stock_alerts
+2026-04-07 05:51:19,293 | GoldPipeline | INFO | Completed: stock_alerts in 0.61s
+2026-04-07 05:51:19,294 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:51:20,732 | GoldPipeline | INFO | Completed: overwrite in 1.44s
+2026-04-07 05:51:20,733 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:51:22,544 | GoldPipeline | INFO | Completed: overwrite in 1.81s
+2026-04-07 05:51:22,545 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:51:24,046 | GoldPipeline | INFO | Completed: overwrite in 1.5s
+2026-04-07 05:51:24,047 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:51:25,700 | GoldPipeline | INFO | Completed: overwrite in 1.65s
+2026-04-07 05:51:25,700 | GoldPipeline | INFO | Started  : overwrite
+2026-04-07 05:51:27,473 | GoldPipeline | INFO | Completed: overwrite in 1.77s
+2026-04-07 05:51:27,474 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:51:28,379 | GoldPipeline | INFO | Completed: create_table in 0.9s
+2026-04-07 05:51:28,380 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:51:29,249 | GoldPipeline | INFO | Completed: create_table in 0.87s
+2026-04-07 05:51:29,249 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:51:30,151 | GoldPipeline | INFO | Completed: create_table in 0.9s
+2026-04-07 05:51:30,152 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:51:31,047 | GoldPipeline | INFO | Completed: create_table in 0.9s
+2026-04-07 05:51:31,048 | GoldPipeline | INFO | Started  : create_table
+2026-04-07 05:51:31,916 | GoldPipeline | INFO | Completed: create_table in 0.87s
+2026-04-07 05:51:31,916 | GoldPipeline | INFO | ===== Gold Pipeline Completed =====

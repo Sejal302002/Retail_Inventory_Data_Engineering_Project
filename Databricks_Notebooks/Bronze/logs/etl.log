@@ -1,0 +1,34 @@
+2026-04-05 07:19:03,818 | BronzeLayer | INFO | ===== Bronze Pipeline Started =====
+2026-04-05 07:19:03,819 | BronzeLayer | INFO | Reading JSON from abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/raw/
+2026-04-05 07:19:09,584 | BronzeLayer | INFO | Data read successfully
+2026-04-05 07:19:09,646 | BronzeLayer | INFO | Flattening JSON using explode
+2026-04-05 07:19:09,904 | BronzeLayer | INFO | Flattening completed
+2026-04-05 07:19:09,905 | BronzeLayer | INFO | Applying transformations
+2026-04-05 07:19:09,940 | BronzeLayer | INFO | Writing data to abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/delta/retail_table/
+2026-04-05 07:19:28,653 | BronzeLayer | INFO | Write successful
+2026-04-05 07:19:28,654 | BronzeLayer | INFO | Creating table retail_catalog.bronze.retail_table
+2026-04-05 07:19:30,214 | BronzeLayer | INFO | Table ready
+2026-04-05 07:19:30,215 | BronzeLayer | INFO | ===== Bronze Pipeline Completed =====
+2026-04-05 07:24:32,284 | BronzeLayer | INFO | ===== Bronze Pipeline Started =====
+2026-04-05 07:24:32,285 | BronzeLayer | INFO | Reading JSON from abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/raw/
+2026-04-05 07:24:33,170 | BronzeLayer | INFO | Data read successfully
+2026-04-05 07:24:33,181 | BronzeLayer | INFO | Flattening JSON using explode
+2026-04-05 07:24:33,289 | BronzeLayer | INFO | Flattening completed
+2026-04-05 07:24:33,290 | BronzeLayer | INFO | Applying transformations
+2026-04-05 07:24:33,302 | BronzeLayer | INFO | Writing data to abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/delta/retail_table/
+2026-04-05 07:24:36,261 | BronzeLayer | INFO | Write successful
+2026-04-05 07:24:36,262 | BronzeLayer | INFO | Creating table retail_catalog.bronze.retail_table
+2026-04-05 07:24:36,681 | BronzeLayer | INFO | Table ready
+2026-04-05 07:24:36,682 | BronzeLayer | INFO | ===== Bronze Pipeline Completed =====
+2026-04-05 07:26:59,537 | BronzeLayer | INFO | ===== Bronze Pipeline Started =====
+2026-04-05 07:26:59,538 | BronzeLayer | INFO | Reading JSON from abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/raw/
+2026-04-05 07:27:00,005 | BronzeLayer | INFO | Data read successfully
+2026-04-05 07:27:00,007 | BronzeLayer | INFO | Flattening JSON using explode
+2026-04-05 07:27:00,068 | BronzeLayer | INFO | Flattening completed
+2026-04-05 07:27:00,069 | BronzeLayer | INFO | Applying transformations
+2026-04-05 07:27:00,078 | BronzeLayer | INFO | Writing data to abfss://input@retailstoragesejal.dfs.core.windows.net/Bronze/delta/retail_table/
+2026-04-05 07:27:04,122 | BronzeLayer | INFO | Write successful
+2026-04-05 07:27:04,124 | BronzeLayer | INFO | Creating table retail_catalog.bronze.retail_table
+2026-04-05 07:27:04,507 | BronzeLayer | INFO | Table ready
+2026-04-05 07:27:04,508 | BronzeLayer | INFO | ===== Bronze Pipeline Completed =====
+2026-04-05 07:28:35,477 | test_logger | INFO | THIS IS A TEST LOG

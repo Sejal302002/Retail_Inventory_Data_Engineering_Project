@@ -1,0 +1,299 @@
+[
+  {
+    "run_id": "28a42403-4b76-45bc-b817-efdd68b14464",
+    "pipeline_name": "pipeline1",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T06:20:38.9000000",
+    "end_time": "2026-04-02T06:20:38.9000000"
+  },
+  {
+    "run_id": "89d6cfe5-ec0b-41c7-a642-f35325726f2a",
+    "pipeline_name": "pipeline1",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T06:51:36.5500000",
+    "end_time": "2026-04-02T06:51:36.5500000"
+  },
+  {
+    "run_id": "c3c030d5-1ad5-4a95-a9cc-e4ce0bc5cfc5",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T07:06:01.9670000",
+    "end_time": "2026-04-02T07:06:01.9670000"
+  },
+  {
+    "run_id": "60eb773f-3b5a-4d97-b17b-5a3bdc76c987",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T07:10:37.9230000",
+    "end_time": "2026-04-02T07:10:37.9230000"
+  },
+  {
+    "run_id": "0b3e4925-105c-4b75-94e1-439170f3efd4",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T10:53:29.5230000",
+    "end_time": "2026-04-02T10:53:29.5230000"
+  },
+  {
+    "run_id": "db516939-f422-492f-97f5-a219ee14b394",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-04T06:22:25.2330000",
+    "end_time": "2026-04-04T06:22:25.2330000"
+  },
+  {
+    "run_id": "50e62c1a-c3e4-4119-976b-1e7f3c2b7aed",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T10:56:35.8270000",
+    "end_time": "2026-04-05T10:56:35.8270000"
+  },
+  {
+    "run_id": "b7d05d24-d3c3-49fb-92d8-e35c80f9f098",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T11:28:40.1900000",
+    "end_time": "2026-04-05T11:28:40.1900000"
+  },
+  {
+    "run_id": "1ef2682a-1e84-43e1-ac5b-f53cdd17ea62",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T12:45:03.0700000",
+    "end_time": "2026-04-05T12:45:03.0700000"
+  },
+  {
+    "run_id": "fe5c2497-1492-48fc-bfc4-173ec2206649",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T13:43:28.1570000",
+    "end_time": "2026-04-05T13:43:28.1570000"
+  },
+  {
+    "run_id": "8cc56c82-3c7e-4ee1-828a-e3097108a6a9",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T14:19:32.9800000",
+    "end_time": "2026-04-05T14:19:32.9800000"
+  },
+  {
+    "run_id": "e8bcfe41-dbe1-44da-b611-d88a4fc1aada",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T14:25:55.3730000",
+    "end_time": "2026-04-05T14:25:55.3730000"
+  },
+  {
+    "run_id": "7cb76127-7b87-4e57-b02d-f46000a2d32f",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-05T16:01:15.8370000",
+    "end_time": "2026-04-05T16:01:15.8370000"
+  },
+  {
+    "run_id": "adb14371-5127-41e5-b944-771f199a7cca",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T07:17:16.6800000",
+    "end_time": "2026-04-06T07:17:16.6800000"
+  },
+  {
+    "run_id": "20ebd520-fae2-40b0-b90e-53ca41250649",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T10:32:19.2900000",
+    "end_time": "2026-04-06T10:32:19.2870000"
+  },
+  {
+    "run_id": "3998d5ca-2491-4924-9689-95c469f9e4df",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T15:20:57.4430000",
+    "end_time": "2026-04-06T15:20:57.4430000"
+  },
+  {
+    "run_id": "94403495-d7d5-4ef7-9294-fa7e495fe360",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T15:30:41.1930000",
+    "end_time": "2026-04-06T15:30:41.1930000"
+  },
+  {
+    "run_id": "e01e5a7d-f464-4049-9af7-f313fcd8bd79",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T16:14:27.5970000",
+    "end_time": "2026-04-06T16:14:27.5970000"
+  },
+  {
+    "run_id": "27a57bb5-ef19-42d1-ba8f-b1586c4d1332",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T16:42:15.5470000",
+    "end_time": "2026-04-06T16:42:15.5470000"
+  },
+  {
+    "run_id": "890558d0-ddb2-4737-b1d5-aef47e8d455c",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T16:50:34.2670000",
+    "end_time": "2026-04-06T16:50:34.2670000"
+  },
+  {
+    "run_id": "9d3b00e8-10e0-46bd-ad4b-d977c954a47b",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:25:53.6470000",
+    "end_time": "2026-04-06T17:25:53.6470000"
+  },
+  {
+    "run_id": "8ed106d1-4fc4-4dfc-a229-9d1b95c8c250",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:33:05.3000000",
+    "end_time": "2026-04-06T17:33:05.3000000"
+  },
+  {
+    "run_id": "96add693-06cd-48b8-8055-89b52cef7451",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:37:39.9430000",
+    "end_time": "2026-04-06T17:37:39.9430000"
+  },
+  {
+    "run_id": "f83fcf54-1396-4219-9913-2a320a994230",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-07T01:50:03.3600000",
+    "end_time": "2026-04-07T01:50:03.3600000"
+  },
+  {
+    "run_id": "4965ec76-c6e3-4175-b694-19086c0491bd",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-07T02:01:30.7200000",
+    "end_time": "2026-04-07T02:01:30.7200000"
+  },
+  {
+    "run_id": "3feadfaf-a0ed-4df7-91d3-fceecbf98d71",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-07T03:54:07.9770000",
+    "end_time": "2026-04-07T03:54:07.9770000"
+  },
+  {
+    "run_id": "df772b47-aa08-46c8-b6e6-57a9db8e7164",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-07T03:59:26.2530000",
+    "end_time": "2026-04-07T03:59:26.2530000"
+  },
+  {
+    "run_id": "d2a39c29-3a78-44eb-b639-53a5511b1ce9",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-07T04:36:46.6630000",
+    "end_time": "2026-04-07T04:36:46.6630000"
+  },
+  {
+    "run_id": "27100f61-5590-48f3-8974-fc275b885807",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-02T07:16:24.3470000",
+    "end_time": "2026-04-02T07:16:24.3470000"
+  },
+  {
+    "run_id": "97060afc-b81a-46c6-b553-57fe44e1b761",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:49:22.6400000",
+    "end_time": "2026-04-06T17:49:22.6400000"
+  },
+  {
+    "run_id": "6e231c53-a6ce-4218-b8c8-db3096e9329b",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:53:44.9430000",
+    "end_time": "2026-04-06T17:53:44.9430000"
+  },
+  {
+    "run_id": "167f93b2-9385-484e-9b5f-0512798996dd",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T17:59:32.4730000",
+    "end_time": "2026-04-06T17:59:32.4730000"
+  },
+  {
+    "run_id": "9fabc402-392d-4885-9be4-ef0db9832874",
+    "pipeline_name": "Retail_Inventory_system",
+    "status": "'Succeeded'",
+    "rows_read": "0",
+    "rows_written": "1",
+    "start_time": "2026-04-06T18:03:00.6470000",
+    "end_time": "2026-04-06T18:03:00.6470000"
+  }
+]

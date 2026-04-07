@@ -15,7 +15,17 @@ Imagine you own a retail store with hundreds of products. You need to know:
 This pipeline answers all of these questions automatically by reading raw product data, cleaning it, analyzing it, and storing the results in organized tables.
 
 ---
+## 🔗 API Source
 
+- API: https://dummyjson.com/products
+- Method: GET
+- Description: Mock REST API providing product data (id, title, price, stock, category, brand)
+
+### Ingestion via ADF
+- Used REST API as source in Azure Data Factory
+- Configured HTTP/REST linked service
+- Data pulled using Copy Activity
+- Stored raw response in ADLS Bronze layer
 ## Architecture — How Data Flows
 
 ```
